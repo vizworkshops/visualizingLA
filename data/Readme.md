@@ -1,5 +1,4 @@
 
-ReadME
 
 File Name: WayneThomSlide_metadata_complete - This CSV file contains all the metadata from the USC Digital Library.
 
