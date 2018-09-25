@@ -1,4 +1,5 @@
 # visualizing los angeles
+### http://bit.ly/visualizeLA2018
 
 Welcome to this repository for the visualizing los angeles workshop. 
 
